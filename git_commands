@@ -1,0 +1,29 @@
+# Create Git branch
+$ git branch <name>
+
+# list Git branches
+$ git branch --list
+
+# Delete Git branch locally
+$ git branch -d <name>
+
+# Delete Git branch remotely
+$ git push origin --delete <name>
+
+# Switch to branch
+$ git checkout <name>
+
+# logging
+$ git log
+
+# git pull
+$ git clone git@github.com:MohammedNayeemUddin/test_git_repo.git
+
+# git push
+$ git commit -m "First line change push" <filename>
+
+# git add
+$ git add <filename>
+
+# git diff
+$ git diff
